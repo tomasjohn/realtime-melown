@@ -1,6 +1,9 @@
-## Welcome to the project Real-time data API for Melown maps 
+## Welcome to the project Real-time data API for Melown 
 
-You can use the [editor on GitHub](https://github.com/tomasjohn/realtime-melown/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[edit this](https://github.com/tomasjohn/realtime-melown/edit/master/README.md) 
+[Melown](https://www.melown.com/index.html) is the 3D map developer's library. With you are able to create virtual geographical environtment to you website. 
+This project is about easing the procedure of including real-time based data to the Melown environtment. The product of the project is a library (API if u will) written in Javascript. Library itself using PHP, [JQuery](),  and can be used with pre-created [AngularJS]() based control panel.  
+The foundamental rockt of the library was set in matter of final thesis at Mendel University of Brno. And it is not an official product of Melown project.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
