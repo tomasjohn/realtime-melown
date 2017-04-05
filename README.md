@@ -1,6 +1,4 @@
-## TODO
-
-## Welcome to GitHub Pages
+## Welcome to the project Real-time data API for Melown maps 
 
 You can use the [editor on GitHub](https://github.com/tomasjohn/realtime-melown/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
