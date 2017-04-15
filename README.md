@@ -1,4 +1,4 @@
-## Welcome to the project Real-time data API for Melown 
+## Welcome to the project API for real-time data in Melown Maps
 
 [edit this](https://github.com/tomasjohn/realtime-melown/edit/master/README.md) 
 
