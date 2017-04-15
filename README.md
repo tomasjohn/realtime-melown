@@ -5,7 +5,7 @@
 
 [Melown](https://www.melown.com/index.html) is the 3D map developer's library. Within you are able to create virtual geographical environtment at your website. 
 This project is about easing the procedure of including real-time data into the created Melown environtment. The product of this project is a library (API if u will) written in Javascript. Library is using PHP, [JQuery](),  and parameters can be managed with pre-created [AngularJS]() based control panel.  
-The foundamental rockt of the library was set in matter of final thesis at Mendel University of Brno. And it is not an official product of Melown project.
+The fundamental rock of this project was set in the matter of final thesis at Mendel University of Brno. And work it's not an original production of the Melown project. Like that in no responsibility should Melown be contacted. 
 
 ### Real-time API tutorial 
 
