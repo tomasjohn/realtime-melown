@@ -1,13 +1,13 @@
-## Welcome to the project 'API for including real-time data in Melown Maps'
+## API for real-time data in Melown Maps
 
 [edit this](https://github.com/tomasjohn/realtime-melown/edit/master/README.md) 
 
 
-[Melown](https://www.melown.com/index.html) is the 3D map developer's library. Within you are able to create virtual geographical environtment at your website. 
-This project is about easing the procedure of including real-time data into the created Melown environtment. The product of this project is a library (API if u will) written in Javascript. Library is using PHP, [JQuery](),  and parameters can be managed with pre-created [AngularJS]() based control panel.  
-The fundamental rock of this project was set in the matter of final thesis at Mendel University of Brno. And work it's not an original production of the Melown project. Like that in no responsibility should Melown be contacted. 
+Welcome to this project. [Melown](https://www.melown.com/index.html) is the 3D map developer's library. Within you are able to create virtual geographical environtment at your website. 
+And this project is about easing the procedure of including real-time data into the environtment created by Melown. Project represents a library (API if u want) written in Javascript. Library is using PHP, [JQuery](),  and parameters associated with data inclusion, like choice of 3D model to represent the data on their positions, can be managed with optional control panel created by [AngularJS]().  
+The fundamental rock of this project was set in the matter of final thesis at Mendel University of Brno. And work it is not an original production of the Melown project. Like that within any issue related to this project should not Melown company  be contacted. Any  
 
-### Real-time API tutorial 
+### How-to use API 
 
 upcoming, TODO
 
