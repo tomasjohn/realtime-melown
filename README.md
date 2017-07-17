@@ -9,7 +9,10 @@ The fundamental rock of this project was set in the matter of final thesis at Me
 
 ### Real-time API tutorial 
 
-#### Predispositions 
+upcoming, TODO
+
+
+#### Asd 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
