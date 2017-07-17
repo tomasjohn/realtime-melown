@@ -1,4 +1,4 @@
-## Welcome to the project API for real-time data in Melown Maps
+## Welcome to the project 'API for including real-time data in Melown Maps'
 
 [edit this](https://github.com/tomasjohn/realtime-melown/edit/master/README.md) 
 
@@ -33,9 +33,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Do you want to contribute to this project with your's framework extension? Read THIS, where you will find how-to. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomasjohn/realtime-melown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+upcoming, TODO
 
 ### Support or Contact
 
