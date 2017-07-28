@@ -4,7 +4,7 @@
 
 
 Welcome to this project. [Melown](https://www.melown.com/index.html) is the 3D map developer's library. Within you are able to create virtual geographical environtment at your website. 
-And this project is about easing the procedure of including real-time data into the environtment created by Melown. Project represents a library (API if u want) written in Javascript. Library is using PHP, [JQuery](),  and parameters associated with data inclusion, like choice of 3D model to represent the data on their positions, can be managed with optional control panel created by [AngularJS]().  
+And this project is about easing the procedure of including real-time data into the environtment created by Melown. Project represents a library (API if u want) written in Javascript. Library is using PHP, [JQuery](),  and parameters associated with data inclusion, like choice of 3D model to represent the data on their positions, can be managed with optional control panel created by [AngularJS](https://angularjs.org/).  
 The fundamental rock of this project was set in the matter of final thesis at Mendel University of Brno. And work it is not an original production of the Melown project. Like that within any issue related to this project should not Melown company  be contacted. Any  
 
 ### How-to use API 
