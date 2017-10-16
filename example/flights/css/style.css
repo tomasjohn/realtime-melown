@@ -1,0 +1,33 @@
+.button_settings {
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  right: 0;
+}
+.button_settings_close {
+  position: fixed;
+  padding-top: 10px;
+  top: 0;
+  z-index: 110;
+  right: 0;
+}
+
+.md-sidenav-right {
+  z-index: 200;
+  
+}
+
+.md-accent {
+  padding-top: 0px;
+  margin-top: -1px;
+}
+
+.md-fab {
+  margin-top: -5px;
+}         
+
+.md-button.md-fab.md-mini {
+      line-height: 4rem;
+      width: 4rem;
+      height: 4rem;
+}
